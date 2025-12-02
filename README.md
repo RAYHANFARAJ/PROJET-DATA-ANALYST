@@ -11,7 +11,7 @@ The dataset contains information about [job postings, skills, or specify domain]
 ## Tools I Used
 
 * **SQL**: For querying and managing structured data.
-* **pgAdmin / DBeaver / MySQL Workbench** (depending on your setup): For executing SQL scripts and visualizing results.
+* **pgAdmin: For executing SQL scripts and visualizing results.
 * **Git & GitHub**: For version control and sharing project files.
 
 ## Analysis
